@@ -144,4 +144,19 @@ yes | sudo add-apt-repository ppa:linrunner/tlp
 yes | sudo apt update
 yes | sudo apt install tlp tlp-rdw
 
-echo 'need restart for complete docker install'
+
+# zsh ==========================================================
+yes | sudo apt install zsh
+chsh -s /bin/zsh
+
+# end ==========================================================
+echo 'need restart for complete install'
+
+# after restart
+
+# 以下は手動
+
+# zsh の設定
+# zimのインストール
+# KDEの設定
+# IMEの設定
