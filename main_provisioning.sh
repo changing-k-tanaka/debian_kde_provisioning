@@ -29,7 +29,8 @@ yes | sudo apt install yakuake # guake like terminal for kde
 #yes | sudo apt install chromium-browser-l10n
 yes | sudo apt install filezilla
 yes | sudo apt install clamtk
-sudo apt install plasma-firewall
+yes | sudo apt install plasma-firewall
+yes | sudo apt install ntp
 
 # docker ===========================================================
 # dockerの公式ページを見て、ちゃんとレポジトリをインストールしようとするディストリビューション・バージョンに合わせること
