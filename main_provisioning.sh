@@ -159,5 +159,6 @@ echo 'need restart for complete install'
 
 # zsh の設定
 # zimのインストール
+# cp ./assets/_zprofile ~/.zprofile # IMEの設定にも必要
 # KDEの設定
 # IMEの設定
